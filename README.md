@@ -1,3 +1,5 @@
 # Metal Shot
 
-Metal Shot è un gioco *arcade shooter* bidimensionale a scorrimento orizzontale ispirato a Metal Slug (SNK Playmore, 1996). Il giocatore, munito di un'arma a raffica con colpi infiniti, deve eliminare tutte le forze nemiche che incontra lungo il percorso.
+Metal Shot is an arcade shooter, side-scrolling game inspired by Metal Slug (SNK Playmore, 1996). The player, equipped with a rapid-fire weapon with unlimited ammo, must eliminate all enemy forces encountered along the way.
+
+The project was developed for the Object-Oriented Programming exam at Engineering and Computer Science (ISI - UniBo) located in Cesena.
